@@ -75,4 +75,4 @@ http://youtu.be/jnSopUsd7fs
 <strong>Conclusion:</strong>
 Overall, this was a great project and I am confident that this oven can be used regularly for reflow.  Having the controlled profile allows me to do other things while pcbs are reflowing. I am glad I could leverage the work of the open source community and come up with this great project.
 
-The bulk of the control code was a modification of the the <a href="https://github.com/rocketscream/Reflow-Oven-Controller/blob/master/reflowOvenController.ino">Rocket Scream Control Code</a>.  The code I used can be found on <a href="https://github.com/ohararp/ReflowOvenA">Github</a>.
+The bulk of the control code was a modification of the the <a href="https://github.com/rocketscream/Reflow-Oven-Controller/blob/master/reflowOvenController.ino">Rocket Scream Control Code</a>.  The code I used can be found on <a href="https://github.com/ohararp/ReflowOven">Github</a>.
